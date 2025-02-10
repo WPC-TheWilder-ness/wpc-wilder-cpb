@@ -2,7 +2,7 @@ main:
   - name: HOME
     url: 'https://apx.wilder.wp.computer'
     weight: 1
-  - name: WARNING
+  - name: WAR
     url: 'https://warningdisclaimer.wilder.wp.computer'
     weight: 2
   - name: THI
@@ -20,8 +20,8 @@ main:
   - name: TMFP 
     url: 'https://timemachineforpeace.wilder.wp.computer'
     weight: 7
-  - name: COMMS
-    url: 'https://conversationcommunicationprotocols.wilder.wp.computer'
+  - name: CONVO
+    url: 'https://conversation.wilder.wp.computer'
     weight: 8
   - name: ☮!
     url: 'https://peacebang.wilder.wp.computer'
