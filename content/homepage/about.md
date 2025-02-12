@@ -2,7 +2,7 @@
 title: Core Peace Bias
 draft: false
 avatar: images/Bk.png
-bio: The core peace bias is a set of value pairs that are biased to favor peaceful outcomes, for reference in cases where a decision point is not clear as to which choice on should favor.
+bio: In a random walk of all the little choices, not all of which are clear to take, over time the truly random chooser will zig zag in and out within the same local space, never really getting anywhere in the average over time. But, to apply a deliberate and systematic _weight_ that favors one direction consistently, the random walk drifts in the average. [!Richard Hamming quote]
 
 weight: 1
 widget:
@@ -28,4 +28,53 @@ widget:
     # Options: fixed, local, scroll.
     attachment: 
 ---
-[[ UNDER CONSTRUCTION ]]
+[[ UNDER RECONSTRUCTION ]]
+
+[[ TODO: reorder, favor {emotion, thinking, restraint; ... ]]
+
+[[ TODO: Pieces: local|global, ;, the exception game, review process ]] 
+
+## **Core Peace Bias**
+
+| **Favored Value**           |    | **Unfavored Value**             |
+|-----------------------------|----|---------------------------------|
+| **Nonviolence**             | >  | Violence                        |
+| **Creation**                | >  | Destruction                     |
+| **Process**                 | >  | Product                         |
+| **Compassion**              | >  | Sympathy                        |
+| **Commitment**              | >  | Noncommital                     |
+| **Acceptance**              | >  | Denial                          |
+| **Tolerance**               | >  | Intolerance                     |
+| **Inclusion**               | >  | Exclusion                       |
+| **Neutrality**              | >  | Polarization                    |
+| **Trust**                   | >  | Distrust                        |
+| **Preservation**            | >  | Disruption                      |
+| **Empathy**                 | >  | Indifference                    |
+| **Difference**              | >  | Similarity                      |
+| **Interdependence**         | >  | Independence                    |
+| **Love**                    | >  | Hate                            |
+| **Emotion**                 | >  | Intellect                       |
+| **Thinking**                | >  | Feeling                         |
+| **Restraint**               | >  | Release                         |
+| **Democracy**               | >  | Autocracy                       |
+| **Transparency**            | >  | Opacity                         |
+| **Flexibility**             | >  | Rigidity                        |
+| **Collaboration**           | >  | Competition                     |
+| **Humility**                | >  | Arrogance                       |
+| **Resilience**              | >  | Fragility                       |
+| **Sustainability**          | >  | Short-term Gains                |
+| **Patience**                | >  | Impatience                      |
+| **Empowerment**             | >  | Control                         |
+| **Mindfulness**             | >  | Negligence                      |
+| **Accountability**          | >  | Irresponsibility                |
+| **Integration**             | >  | Disintegration                  |
+| **Evolution**               | >  | Revolution                      |
+| **Adaptation**              | >  | Stagnation                      |
+| **Discomfort**              | >  | Comfort                         |
+| **Giant Steps**             | >  | Baby Steps                      |
+| **Future**                  | >  | Past                            |
+| **Difference**              | >  | Similarity                      |
+| **Challenge**               | >  | Ease                            |
+| **Actual Intelligence**     | >  | Artificial Intelligence         |
+| **Variation**               | >  | Consistency                     |
+
